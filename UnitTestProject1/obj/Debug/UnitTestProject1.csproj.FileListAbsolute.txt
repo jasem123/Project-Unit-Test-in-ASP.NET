@@ -1,0 +1,44 @@
+C:\Users\Jasem\source\repos\APP HW 1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Jasem\source\repos\APP HW 1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Jasem\source\repos\APP HW 1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Jasem\source\repos\APP HW 1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Jasem\source\repos\APP HW 1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Jasem\source\repos\APP HW 1\UnitTestProject1\bin\Debug\APP HW 1.dll
+C:\Users\Jasem\source\repos\APP HW 1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Jasem\source\repos\APP HW 1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Jasem\source\repos\APP HW 1\UnitTestProject1\bin\Debug\System.Web.Optimization.dll
+C:\Users\Jasem\source\repos\APP HW 1\UnitTestProject1\bin\Debug\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Jasem\source\repos\APP HW 1\UnitTestProject1\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Jasem\source\repos\APP HW 1\UnitTestProject1\bin\Debug\APP HW 1.pdb
+C:\Users\Jasem\source\repos\APP HW 1\UnitTestProject1\bin\Debug\APP HW 1.dll.config
+C:\Users\Jasem\source\repos\APP HW 1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Jasem\source\repos\APP HW 1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Jasem\source\repos\APP HW 1\UnitTestProject1\bin\Debug\System.Web.Optimization.xml
+C:\Users\Jasem\source\repos\APP HW 1\UnitTestProject1\bin\Debug\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Jasem\source\repos\APP HW 1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+C:\Users\Jasem\source\repos\APP HW 1\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\Jasem\source\repos\APP HW 1\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+C:\Users\Jasem\source\repos\APP HW 1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Jasem\source\repos\APP HW 1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\Jasem\source\repos\Project Unit Test in ASP.NET\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Jasem\source\repos\Project Unit Test in ASP.NET\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Jasem\source\repos\Project Unit Test in ASP.NET\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Jasem\source\repos\Project Unit Test in ASP.NET\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Jasem\source\repos\Project Unit Test in ASP.NET\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Jasem\source\repos\Project Unit Test in ASP.NET\UnitTestProject1\bin\Debug\APP HW 1.dll
+C:\Users\Jasem\source\repos\Project Unit Test in ASP.NET\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Jasem\source\repos\Project Unit Test in ASP.NET\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Jasem\source\repos\Project Unit Test in ASP.NET\UnitTestProject1\bin\Debug\System.Web.Optimization.dll
+C:\Users\Jasem\source\repos\Project Unit Test in ASP.NET\UnitTestProject1\bin\Debug\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Jasem\source\repos\Project Unit Test in ASP.NET\UnitTestProject1\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Jasem\source\repos\Project Unit Test in ASP.NET\UnitTestProject1\bin\Debug\APP HW 1.pdb
+C:\Users\Jasem\source\repos\Project Unit Test in ASP.NET\UnitTestProject1\bin\Debug\APP HW 1.dll.config
+C:\Users\Jasem\source\repos\Project Unit Test in ASP.NET\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Jasem\source\repos\Project Unit Test in ASP.NET\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Jasem\source\repos\Project Unit Test in ASP.NET\UnitTestProject1\bin\Debug\System.Web.Optimization.xml
+C:\Users\Jasem\source\repos\Project Unit Test in ASP.NET\UnitTestProject1\bin\Debug\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Jasem\source\repos\Project Unit Test in ASP.NET\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+C:\Users\Jasem\source\repos\Project Unit Test in ASP.NET\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\Jasem\source\repos\Project Unit Test in ASP.NET\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+C:\Users\Jasem\source\repos\Project Unit Test in ASP.NET\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Jasem\source\repos\Project Unit Test in ASP.NET\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
